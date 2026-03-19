@@ -126,7 +126,7 @@ soroban contract deploy \
 
 Contract Address: CBQTD7EPURN2M5XQ2AFDZ2AT7MFGVMK5GAAGXPNTZOKKPVFBLPCGIVUO
 
-Network: Stellar Testnet / Mainnet (choose one)
+Network: Stellar Testnet 
 
 Explorer Link: https://stellar.expert/explorer/testnet/contract/CBQTD7EPURN2M5XQ2AFDZ2AT7MFGVMK5GAAGXPNTZOKKPVFBLPCGIVUO
 
