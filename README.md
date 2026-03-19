@@ -122,6 +122,13 @@ soroban contract deploy \
 <img width="1884" height="870" alt="Screenshot 2026-03-19 143429" src="https://github.com/user-attachments/assets/98afd4cb-998d-46e3-99b8-2de48f822dc8" />
 
 ---
+🌐 Deployed Smart Contract
+
+Contract Address: CBQTD7EPURN2M5XQ2AFDZ2AT7MFGVMK5GAAGXPNTZOKKPVFBLPCGIVUO
+
+Network: Stellar Testnet / Mainnet (choose one)
+
+Explorer Link: https://stellar.expert/explorer/testnet/contract/CBQTD7EPURN2M5XQ2AFDZ2AT7MFGVMK5GAAGXPNTZOKKPVFBLPCGIVUO
 
 ## 🧪 Future Improvements
 
@@ -140,7 +147,13 @@ Feel free to fork the repository and submit a pull request.
 
 ---
 
-Author- ARIJIT DEBNATH
+👤 Author
+
+Name: ARIJIT DEBNATH
+
+Email: arijitdebnath008@gmail.com
+
+
 
   
 ## 📜 License
